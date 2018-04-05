@@ -1,0 +1,2 @@
+# al-bhed-translator
+Al bhed translator - This is a basic translator app for the Al-bhed language from Final Fantasy X. Al-Bhed is a language that is simply english, only all the letters are switched around. The letters, however, are switched around in such a way that everything is still speakable. This basic java program provides options to translate English into Al-bhed and also Al-bhed into English.
